@@ -1,14 +1,4 @@
-# MargDarshan
-
-## _Automate the Career advice which is suitable for the Engineering Students_
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://noobbytes.herokuapp.com/)
-
-> Click here to explore ✨ [ MargDarshan](https://noobbytes.herokuapp.com/) ✨
-
-> [Demostration Video](https://youtu.be/w3rM3Vjrhqo)
-
-The problem can be countered by a Machine Learning based “Career Guidance System”.
+# MargDarshi
 
 #### Our Assumptions **_(Primarily for engineering students)_**:
 
@@ -146,27 +136,3 @@ graph TD
 - ##### Future Scope:
   - The parameters used in the project can be modified and new parameters can be added to make the model more accurate to the problem. Also, use of a verified and accurate dataset can increase the efficiency and accuracy of the models. Some more algorithms like Naive Bayes may also be explored to check the accuracy of the system.
 
-#### Implementation:
-
-- Github Project Link : https://github.com/gautamgiri-dev/CareerGuidanceSystem
-
-- Hosted Implementation : https://noobbytes.herokuapp.com/
-- Demonstration Video : https://youtu.be/w3rM3Vjrhqo
-
-#### References:
-
-1. Student Career Prediction Using Advanced Machine Learning Techniques - K. Sripath Roy 1, K.Roopkanth 2\*, V.Uday Teja 3, V.Bhavana 4, J.Priyanka 5, Department of Electronics and Communication Engineering, Koneru Lakshmaiah Education Foundation, Vaddeswaram, Guntur, Andhra Pradesh.
-
-2. https://www.geeksforgeeks.org/support-vector-machine-algorithm/
-3. https://www.sciencedirect.com/topics/computer-science/decision-tree-classifier
-4. https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
-5. https://en.wikipedia.org/wiki/Random_forest
-6. https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-
-#### ScreenShots
-
-**Here's the some screenshots**
-
-> ![Secttion](https://raw.githubusercontent.com/gautamgiri-dev/CareerGuidanceSystem/master/screenshot/screen1.PNG "Screen")
-
-> ![Secttion](https://raw.githubusercontent.com/gautamgiri-dev/CareerGuidanceSystem/master/screenshot/screen2.PNG "Screen")
